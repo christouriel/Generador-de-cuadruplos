@@ -1,0 +1,13 @@
+3*a-(c+5/d)
+5+7
+c+1*32
+s+2
+while(s+4)
+e*5
+i+c
+2+(b+2)*(1-2)
+endwhile 
+if(b-a)
+c+b
+9*2+o*9(6)
+endif
