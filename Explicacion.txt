@@ -1,0 +1,15 @@
+Este código en Python implementa un analizador sintáctico para expresiones y genera cuádruplos asociados. 
+El programa incluye una interfaz gráfica construida con Tkinter para ingresar expresiones, realizar análisis sintáctico, mostrar cuádruplos y ver el código intermedio.
+
+La interfaz permite:
+
+Ingresar expresiones en el área de texto.
+Validar y analizar las expresiones al hacer clic en el botón "Analizar".
+Cargar expresiones desde un archivo con el botón "Cargar desde archivo".
+Limpiar el área de texto con el botón "Limpiar".
+Mostrar los cuádruplos generados con el botón "Mostrar Cuádruplos".
+Ver el código intermedio con el botón "Ver Código Intermedio".
+El código utiliza clases para representar nodos en un árbol de sintaxis abstracta y funciones para realizar el análisis léxico y sintáctico. 
+Los cuádruplos se generan a medida que se analiza la expresión. La interfaz gráfica proporciona una experiencia de usuario para interactuar con el analizador.
+
+Si tienes alguna pregunta específica sobre el código o necesitas más información, estaré encantado de ayudarte.
